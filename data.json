@@ -1,0 +1,14 @@
+[
+  {
+    "roll_number": "101",
+    "name": "John Doe",
+    "age": 20,
+    "department": "Computer Science"
+  },
+  {
+    "roll_number": "102",
+    "name": "Jane Smith",
+    "age": 22,
+    "department": "Mechanical Engineering"
+  }
+]
